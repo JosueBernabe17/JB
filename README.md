@@ -1,2 +1,2 @@
 # JB
-Estudiante de Ingeniería en Sistemas apasionado por el desarrollo web. Experiencia en SQL y ASP.NET. Busco oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes.
+Computer Systems Engineering student passionate about web development. Experience in SQL and ASP.NET. I am looking for opportunities to improve my skills and collaborate on interesting projects.
